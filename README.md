@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a Full-stack Developer at AS SEB Pank and currently pursuing a Bachelor's degree in Business Information Technology at Tallinn University of Technology.
+I am currently working at Nortal as Junior Data & AI Engineer and pursuing a Bachelor's degree in Business Information Technology at Tallinn University of Technology.
 
 I enjoy backend development the most. I like building systems that are stable, efficient, and easy to maintain.
 
