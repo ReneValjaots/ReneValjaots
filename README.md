@@ -1,14 +1,12 @@
 <div align="center">
   <h1>Hi, I'm Rene Väljaots 👋</h1>
-  <h3>Software Developer & CS student</h3>
+  <h3>Software Engineer</h3>
 </div>
 
 <br />
 
 
 ## About Me
-
-I am currently working at Nortal as Junior Data & AI Engineer and pursuing a Bachelor's degree in Business Information Technology at Tallinn University of Technology.
 
 I enjoy backend development the most. I like building systems that are stable, efficient, and easy to maintain.
 
